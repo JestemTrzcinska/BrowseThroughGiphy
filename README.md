@@ -2,7 +2,7 @@
 
 ## General info
 This project gives an option to browse through gifs from Giphy.com
-Needed in the past to aply for a job.
+Web app needed to apply for a job.
 	
 ## Technologies
 Project is created with:
